@@ -1,0 +1,16 @@
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Adapter.dll.config
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Adapter.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Adapter.pdb
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\EntityFramework.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Common.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Data.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Entities.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Common.pdb
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Data.pdb
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Entities.pdb
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\EntityFramework.xml
+D:\DotNet_Projects\StockSystem\Stock.Adapter\obj\Debug\Stock.Adapter.csprojResolveAssemblyReference.cache
+D:\DotNet_Projects\StockSystem\Stock.Adapter\obj\Debug\Stock.Adapter.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\obj\Debug\Stock.Adapter.pdb
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Adapter.dll.CodeAnalysisLog.xml
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Debug\Stock.Adapter.dll.lastcodeanalysissucceeded

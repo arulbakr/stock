@@ -1,0 +1,14 @@
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\Stock.Adapter.dll.config
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\Stock.Adapter.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\Stock.Adapter.pdb
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\EntityFramework.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\Stock.Common.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\Stock.Data.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\Stock.Entities.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\Stock.Common.pdb
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\Stock.Data.pdb
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\Stock.Entities.pdb
+D:\DotNet_Projects\StockSystem\Stock.Adapter\bin\Release\EntityFramework.xml
+D:\DotNet_Projects\StockSystem\Stock.Adapter\obj\Release\Stock.Adapter.csprojResolveAssemblyReference.cache
+D:\DotNet_Projects\StockSystem\Stock.Adapter\obj\Release\Stock.Adapter.dll
+D:\DotNet_Projects\StockSystem\Stock.Adapter\obj\Release\Stock.Adapter.pdb
